@@ -669,7 +669,7 @@ footer ul li {
   }
 
   main div {
-    width: 85%;
+    width: 83%;
   }
 
   main h2 {
@@ -692,7 +692,7 @@ footer ul li {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 490px) {
   h1 {
     font-size: 2rem;
   }
@@ -700,7 +700,7 @@ footer ul li {
     height: 40rem;
   }
   main div {
-    width: 90%;
+    width: 87%;
   }
   main h2 {
     font-size: 1.2rem;
